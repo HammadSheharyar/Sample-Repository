@@ -1,0 +1,25 @@
+jdjej
+ef[fr
+tgrtgtrg
+trg
+ttyt
+yt
+yt
+yt
+yyt
+yt
+yt
+ty
+ty
+
+
+ty
+
+ty
+now i am adding but git stsus will show no untrack files so it sis advatage of ignoring files 
+step to be folllowed: make a file by command (touch error.log)
+2) make other file touch .gitignore
+3)write error.log in gitignore file and save it 
+4)do stage the gitignore file
+
+for more files to be ignored use *.log in gitignore
